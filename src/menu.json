@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Nasi Goreng",
+        "price": 20000,
+        "imgUrl": "https://images.unsplash.com/photo-1680674774705-90b4904b3a7f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": 1,
+        "detail": "Nasi goreng adalah hidangan nasi goreng khas Indonesia dengan rasa smoky, disajikan dengan telur, ayam, dan kecap manis."
+    },
+    {
+        "name": "Soto Ayam",
+        "price": 25000,
+        "imgUrl": "https://awsimages.detik.net.id/community/media/visual/2017/03/22/d3cb3b7a-aa3a-4e0a-a0d4-83828a40b5d5_43.jpg?w=600&q=90",
+        "category": 1,
+        "detail": "Soto ayam adalah sup ayam yang menenangkan dengan kaldu kunyit, bihun, dan sayuran segar."
+    },
+    {
+        "name": "Bakso",
+        "price": 22000,
+        "imgUrl": "https://cdn0-production-images-kly.akamaized.net/ZGgx--GJNOoEn4XNmkAXkknlqwk=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2763419/original/071857300_1553761217-shutterstock_1148354906.jpg",
+        "category": 1,
+        "detail": "Bakso adalah sup bakso yang populer, disajikan dengan mie, tahu goreng, dan bawang goreng."
+    },
+    {
+        "name": "Mie Ayam",
+        "price": 18000,
+        "imgUrl": "https://i.ytimg.com/vi/QiZt1ALYVEQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCvsiWPunf-Yh1MTqZcv8sGKooajw",
+        "category": 1,
+        "detail": "Mie ayam dengan saus kecap yang beraroma, dilengkapi potongan ayam dan bawang goreng."
+    },
+    {
+        "name": "Rendang",
+        "price": 35000,
+        "imgUrl": "https://lingkar.news/wp-content/uploads/2023/03/Resep-Rendang-Daging-Sapi-Empuk-Makanan-Tradisional-Indonesia.jpg",
+        "category": 1,
+        "detail": "Rendang adalah daging sapi yang dimasak perlahan dengan santan dan rempah-rempah, hidangan khas Padang."
+    },
+    {
+        "name": "Es Cendol",
+        "price": 15000,
+        "imgUrl": "https://awsimages.detik.net.id/community/media/visual/2019/02/21/32e9715c-976c-4939-ac14-6833baa85138.jpeg?w=600&q=90",
+        "category": 2,
+        "detail": "Minuman pencuci mulut tradisional dengan cendol hijau, santan, dan gula merah cair."
+    },
+    {
+        "name": "Klepon",
+        "price": 10000,
+        "imgUrl": "https://asset.kompas.com/crops/id00fXg3O-KSHVUvmza9m-wIF8Q=/32x0:1000x645/1200x800/data/photo/2023/09/08/64fa7899edc0b.jpeg",
+        "category": 2,
+        "detail": "Klepon adalah bola tepung ketan hijau berisi gula merah cair dan dibalut kelapa parut."
+    },
+    {
+        "name": "Es Campur",
+        "price": 18000,
+        "imgUrl": "https://blog.tokowahab.com/wp-content/uploads/2021/04/Resep-Es-Campur-Bangka-di-Blog.Tokowahab.coom_.jpg",
+        "category": 2,
+        "detail": "Es campur berisi berbagai buah, agar-agar, santan, dan sirup manis."
+    },
+    {
+        "name": "Es Teh Manis",
+        "price": 8000,
+        "imgUrl": "https://cdn.rri.co.id/berita/Palangkaraya/o/1730890780348-IMG_3206/q16mgtva53pkaxr.jpeg",
+        "category": 3,
+        "detail": "Minuman teh dingin yang menyegarkan, manis dengan gula pasir."
+    },
+    {
+        "name": "Es Jeruk",
+        "price": 10000,
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW3lCbmdrp5RWJfMDQK0mk2m48dvBHvyl_Nw&s",
+        "category": 3,
+        "detail": "Minuman jeruk segar yang diperas langsung, disajikan dingin."
+    },
+    {
+        "name": "Kerupuk",
+        "price": 5000,
+        "imgUrl": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2021/11/03020431/7.-Kalori-Kerupuk-Putih-dan-Bahayanya-Jika-Dikonsumsi-Berlebih.jpg.webp",
+        "category": 4,
+        "detail": "Kerupuk renyah yang cocok sebagai camilan atau pelengkap makanan."
+    },
+    {
+        "name": "Martabak Manis",
+        "price": 25000,
+        "imgUrl": "https://www.chocolatesandchai.com/wp-content/uploads/2024/10/Martabak-Manis-Featured.jpg",
+        "category": 4,
+        "detail": "Martabak manis tebal dengan isian cokelat, keju, atau kacang."
+    },
+    {
+        "name": "Siomay",
+        "price": 20000,
+        "imgUrl": "https://asset.kompas.com/crops/SMCc0tmIUmigtNeg1sAwmbcqVAY=/0x331:750x831/1200x800/data/photo/2020/11/26/5fbfde963ec2c.jpg",
+        "category": 4,
+        "detail": "Siomay kukus yang disajikan dengan saus kacang."
+    },
+    {
+        "name": "Batagor",
+        "price": 20000,
+        "imgUrl": "https://www.masakapahariini.com/wp-content/uploads/2020/11/batagor-bandung-disajikan-e1663738102384.jpg",
+        "category": 4,
+        "detail": "Batagor goreng yang disajikan dengan saus kacang."
+    }
+]
