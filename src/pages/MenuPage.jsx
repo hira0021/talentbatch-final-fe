@@ -21,7 +21,7 @@ const MenuPage = () => {
   }, [categories])
 
   async function getMenu() {
-    const url = "http://localhost:3000/menu";
+    const url = "https://truthful-shadowed-sink.glitch.me/menu";
     try {
       const response = await fetch(url);
       if (!response.ok) {
@@ -37,7 +37,7 @@ const MenuPage = () => {
   }
 
   async function getCategory() {
-    const url = "http://localhost:3000/category";
+    const url = "https://truthful-shadowed-sink.glitch.me/category";
     try {
       const response = await fetch(url);
       if (!response.ok) {
